@@ -4,6 +4,6 @@ def fizzbuzz(int)
   end
  elsif int % 3 == 0
    puts "Fizz"
- end
+  end
 end
 
